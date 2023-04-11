@@ -1,6 +1,6 @@
 # 💫About Me :
-Hi everyone!
-My name's Nhat
+Hi everyone! 
+My name's Nhat. 
 I'm a fullstack developer ...
 
 
