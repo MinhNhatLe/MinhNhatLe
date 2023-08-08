@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi everyone! 
-My name's Nhat. 
-I'm a fullstack developer ...
+My name is Le Minh Nhat, I graduated with a degree in information technology from the University of Transport and Communication Campus 2. I want to work in a professional programming environment where I can develop my professional skills, learn new programming knowledge to complete the assigned work well.
+
 
 
 ## 🌐Socials
