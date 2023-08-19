@@ -11,7 +11,7 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
 >
 > <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Data+Engineer;I'm+a+Blogger"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Data+Engineer"></p>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Nhat.sun.1005/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/l.m.nhattt/) 
@@ -34,8 +34,8 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=HuynhXuanLam-IT44">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=HuynhXuanLam-IT44&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=MinhNhatLe">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhNhatLe&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -43,8 +43,8 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuynhXuanLam-IT44">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuynhXuanLam-IT44&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhNhatLe">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhNhatLe&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -52,8 +52,8 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
 <!--   <tbody>
     <tr>
       <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=HuynhXuanLam-IT44">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=HuynhXuanLam-IT44&theme=dracula">
+        <a href="https://activity-graph.herokuapp.com/graph?username=MinhNhatLe">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=MinhNhatLe&theme=dracula">
         </a>
       </td>
     </tr>
@@ -64,13 +64,13 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
   <tbody>
     <tr>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuynhXuanLam-IT44">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuynhXuanLam-IT44&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhNhatLe">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhNhatLe&theme=dracula"/>
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuynhXuanLam-IT44">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuynhXuanLam-IT44&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhNhatLe">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhNhatLe&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -78,13 +78,13 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuynhXuanLam-IT44">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuynhXuanLam-IT44&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinhNhatLe">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinhNhatLe&theme=dracula"/>
         </a>
       </td>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HuynhXuanLam-IT44">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HuynhXuanLam-IT44&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinhNhatLe">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinhNhatLe&theme=dracula"/>
         </a>
       </td>
     </tr>
