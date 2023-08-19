@@ -7,14 +7,12 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
 - 📫 How to reach me ... (lmnhat.contact@gmail.com)
 
 
-> [![View count](https://visitcount.itsvg.in/api?id=HuynhXuanLam-IT44&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=MinhNhatLe)
->
 > <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#FFD700"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Lê+Minh+Nhật;I'm+a+Software+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Data+Engineer"></p>
+<p align="center" color="#FFD700"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Lê+Minh+Nhật;I'm+a+Full+Stack+Developer"></p>
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Nhat.sun.1005/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/l.m.nhattt/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Nhat.sun.1005/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/l.m.nhattt/) > [![View count](https://visitcount.itsvg.in/api?id=HuynhXuanLam-IT44&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=MinhNhatLe)
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNhatLe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -26,7 +24,9 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
 
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div style="text-align: center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
