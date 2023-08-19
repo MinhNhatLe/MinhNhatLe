@@ -36,7 +36,7 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=MinhNhatLe">
-          <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhNhatLe&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhNhatLe&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -45,7 +45,7 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhNhatLe">
-          <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhNhatLe&theme=dracula"/>
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhNhatLe&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -54,7 +54,7 @@ My name is Le Minh Nhat, I graduated with a degree in information technology fro
     <tr>
       <td>
         <a href="https://activity-graph.herokuapp.com/graph?username=MinhNhatLe">
-          <img width="30%" src="https://activity-graph.herokuapp.com/graph?username=MinhNhatLe&theme=dracula">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=MinhNhatLe&theme=dracula">
         </a>
       </td>
     </tr>
