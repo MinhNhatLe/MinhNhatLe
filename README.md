@@ -1,7 +1,7 @@
 💫Introduction:
 Greetings, everyone!
 
-I am Le Minh Nhat, a graduate with a degree in information technology from the esteemed University of Transport and Communication Campus 2. My passion lies in cultivating my skills within a dynamic and professional programming environment. I am driven to continuously enhance my expertise and acquire new programming knowledge to excel in all assigned tasks.
+My fullname is Le Minh Nhat, a graduate with a degree in information technology from the esteemed University of Transport and Communication Campus 2. My passion lies in cultivating my skills within a dynamic and professional programming environment. I am driven to continuously enhance my expertise and acquire new programming knowledge to excel in all assigned tasks.
 
 👋 Hello, I go by Lê Minh Nhật.
 👀 My focal point is Web Development.
