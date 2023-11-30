@@ -1,10 +1,12 @@
-# 💫About Me :
-Hi everyone! 
-My name is Le Minh Nhat, I graduated with a degree in information technology from the University of Transport and Communication Campus 2. I want to work in a professional programming environment where I can develop my professional skills, learn new programming knowledge to complete the assigned work well.
-- 👋 Hi, I’m Lê Minh Nhật
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Reactjs and .NET
-- 📫 How to reach me ... (lmnhat.contact@gmail.com)
+💫Introduction:
+Greetings, everyone!
+
+I am Le Minh Nhat, a graduate with a degree in information technology from the esteemed University of Transport and Communication Campus 2. My passion lies in cultivating my skills within a dynamic and professional programming environment. I am driven to continuously enhance my expertise and acquire new programming knowledge to excel in all assigned tasks.
+
+👋 Hello, I go by Lê Minh Nhật.
+👀 My focal point is Web Development.
+🌱 Currently, I am engrossed in mastering Reactjs and .NET.
+📫 You can reach me at lmnhat.contact@gmail.com.
 
 
 > <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
