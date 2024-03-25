@@ -1,6 +1,6 @@
 💫Hi everyone!
 
-My fullname is Le Minh Nhat, a graduate with a degree in information technology from the esteemed University of Transport and Communication Campus 2. My passion lies in cultivating my skills within a dynamic and professional programming environment. I am driven to continuously enhance my expertise and acquire new programming knowledge to excel in all assigned tasks.
+I'm Nhat.
 
 
 > <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
