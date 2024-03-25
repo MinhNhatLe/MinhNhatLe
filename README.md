@@ -10,7 +10,3 @@ My fullname is Le Minh Nhat, a graduate with a degree in information technology 
 ## 🌐Socials
 [![View count](https://visitcount.itsvg.in/api?id=MinhNhatLe&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=MinhNhatLe)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Nhat.sun.1005/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/l.m.nhattt/)
-
-## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNhatLe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Nhat's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MinhNhatLe&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
